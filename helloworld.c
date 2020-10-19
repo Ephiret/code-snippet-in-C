@@ -1,0 +1,5 @@
+//code to print hello world
+#include<stdio.h>
+int main(){
+    printf("HELLO WORLD");
+}
